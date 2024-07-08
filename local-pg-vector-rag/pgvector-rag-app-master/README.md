@@ -1,5 +1,13 @@
 # Notes
 
+I am taking the tutorial (original README below) and doing the following:
+
+1. Containerize.
+2. Develop and evaluation harness for the RAG system.
+3. Extending the RAG to include more advanced techniques (re-ranking, self-querying, query expansion etc ...)
+
+## Installation and Setup
+
 - Need postgresql installed, can do this with `brew install postgresql@15'
 - You can also just use the postgres.app on Mac https://postgresapp.com/ 
 - Based on https://www.enterprisedb.com/blog/rag-app-postgres-and-pgvector
